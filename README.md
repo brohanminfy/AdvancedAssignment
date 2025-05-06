@@ -47,3 +47,4 @@ Assignment 5: Collaborative Project with Advanced Git Techniques
 - `Midhilesh` resolved `Contacts Router` Issue
 - Next, we `Merged` the branches into the main branch
 - We used `rebase` function to edit the commits
+- We used `cherry-pick` to get commit of main branch to bug branch
