@@ -5,6 +5,12 @@ app.get('/',(req,res)=>{
     res.send("Hello")
 })
 
+
+app.get('/Contacts',(req,res)=>{
+    res.send("Contacts page")
+})
+
+
 // By Rohan - Home issue done
 app.get('/home',(req,res)=>{
     res.send("This is Home Page")
@@ -14,6 +20,7 @@ app.get('/about',(req,res)=>{
     res.send("About")
 
 })
+
 
 app.listen(3000,()=>{
     console.log("Running")
