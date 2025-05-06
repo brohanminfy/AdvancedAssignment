@@ -17,3 +17,9 @@ Assignment 5: Collaborative Project with Advanced Git Techniques
 
 ![alt text](image-4.png)
 
+![alt text](image-5.png)
+
+<h4>Commits</h4>
+
+![alt text](image-6.png)
+
