@@ -5,7 +5,7 @@ app.get('/',(req,res)=>{
     res.send("Hello")
 })
 
-
+// By Midhilesh - Contacts issue solved
 app.get('/Contacts',(req,res)=>{
     res.send("Contacts page")
 })
