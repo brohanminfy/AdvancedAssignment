@@ -35,3 +35,7 @@ Assignment 5: Collaborative Project with Advanced Git Techniques
 
 ![alt text](image-9.png)
 
+<h4> Use of cherry-pick </h4>
+
+![alt text](image-11.png)
+
