@@ -23,3 +23,13 @@ Assignment 5: Collaborative Project with Advanced Git Techniques
 
 ![alt text](image-6.png)
 
+<h4> Branches </h4>
+
+![alt text](image-7.png)
+
+<h4> Git Rebase </h4>
+
+![alt text](image-8.png)
+
+![alt text](image-9.png)
+
