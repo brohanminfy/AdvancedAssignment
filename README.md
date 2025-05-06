@@ -39,3 +39,11 @@ Assignment 5: Collaborative Project with Advanced Git Techniques
 
 ![alt text](image-11.png)
 
+### Work Done
+- First, we created a main branch which has a basic code
+- Next, we made 3 different branches and worked on different issues.
+- `Rohan` resolved `Home Router` Issue
+- `Samrath` resolved `About Router` Issue
+- `Midhilesh` resolved `Contacts Router` Issue
+- Next, we `Merged` the branches into the main branch
+- We used `rebase` function to edit the commits
